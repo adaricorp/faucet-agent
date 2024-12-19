@@ -27,7 +27,7 @@ and push network events to a prometheus endpoint:
 ```
 faucet_agent \
     --event-socket /run/faucet/event.sock \
-    --prometheus-remote-write-uri http://127.0.0.1:9090/api/v1/write \
+    --prometheus-remote-write-uri http://127.0.0.1:9090/api/v1/write
 ```
 
 It is also possible to configure faucet-agent by using environment variables:
