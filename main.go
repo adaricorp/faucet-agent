@@ -135,6 +135,14 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 
 		labels := []*dto.LabelPair{
 			{
+				Name:  proto.String("dp_id"),
+				Value: proto.String(strconv.Itoa(event.DpID)),
+			},
+			{
+				Name:  proto.String("dp_name"),
+				Value: proto.String(event.DpName),
+			},
+			{
 				Name:  proto.String("mac"),
 				Value: proto.String(event.L3Learn.EthSrc),
 			},
