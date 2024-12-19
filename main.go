@@ -153,7 +153,7 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 		}
 
 		metrics["faucet_mac_ip_info"] = &dto.MetricFamily{
-			Name: proto.String("faucet_mac_ip_info"),
+			Name: proto.String("faucet_l3_info"),
 			Type: dto.MetricType_COUNTER.Enum(),
 			Metric: []*dto.Metric{
 				{
