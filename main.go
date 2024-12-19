@@ -71,7 +71,7 @@ func init() {
 		"warn",
 	)
 	promUrl = fs.StringLong(
-		"remote-write-uri",
+		"prometheus-remote-write-uri",
 		"http://localhost:9090/api/v1/write",
 		"Prometheus remote write URI",
 	)
