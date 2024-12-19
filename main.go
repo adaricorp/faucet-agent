@@ -12,6 +12,7 @@ import (
 	"net/url"
 	"os"
 	"os/signal"
+	"strconv"
 	"strings"
 	"syscall"
 	"time"
@@ -140,6 +141,14 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 			{
 				Name:  proto.String("ip"),
 				Value: proto.String(event.L3Learn.L3SrcIP),
+			},
+			{
+				Name:  proto.String("port"),
+				Value: proto.String(strconv.Itoa(event.L3Learn.PortNo)),
+			},
+			{
+				Name:  proto.String("vid"),
+				Value: proto.String(strconv.Itoa(event.L3Learn.Vid)),
 			},
 		}
 
