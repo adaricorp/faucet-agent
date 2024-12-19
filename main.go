@@ -135,6 +135,14 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 
 		labels := []*dto.LabelPair{
 			{
+				Name:  proto.String("dp_id"),
+				Value: proto.String(strconv.Itoa(event.DpID)),
+			},
+			{
+				Name:  proto.String("dp_name"),
+				Value: proto.String(event.DpName),
+			},
+			{
 				Name:  proto.String("mac"),
 				Value: proto.String(event.L3Learn.EthSrc),
 			},
@@ -152,7 +160,7 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 			},
 		}
 
-		metrics["faucet_mac_ip_info"] = &dto.MetricFamily{
+		metrics["faucet_l3_info"] = &dto.MetricFamily{
 			Name: proto.String("faucet_l3_info"),
 			Type: dto.MetricType_COUNTER.Enum(),
 			Metric: []*dto.Metric{
