@@ -43,6 +43,8 @@ var (
 	promUrl     *string
 	eventSocket *string
 
+	hostname string
+
 	conn net.Conn
 
 	retries int
@@ -134,6 +136,10 @@ func handleEvent(ctx context.Context, promClient remote.WriteClient, eventString
 		)
 
 		labels := []*dto.LabelPair{
+			{
+				Name:  proto.String("instance"),
+				Value: proto.String(hostname),
+			},
 			{
 				Name:  proto.String("dp_id"),
 				Value: proto.String(strconv.Itoa(event.DpID)),
@@ -250,6 +256,16 @@ func main() {
 			*promUrl,
 			"error",
 			err.Error(),
+		)
+		os.Exit(1)
+	}
+
+	hostname, err = os.Hostname()
+	if err != nil {
+		slog.Error(
+			"Failed to get system hostname",
+			"error",
+			err,
 		)
 		os.Exit(1)
 	}
