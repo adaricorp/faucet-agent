@@ -1,7 +1,7 @@
 # faucet-agent
 
 This tool can ingest streaming network events from the
-(faucet)[https://github.com/faucetsdn/faucet] event API
+[faucet](https://github.com/faucetsdn/faucet) event API
 and push this data to a prometheus server.
 
 ## Requirements
