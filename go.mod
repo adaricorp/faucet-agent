@@ -1,7 +1,6 @@
 module faucet_agent
 
 go 1.23
-
 require (
 	github.com/golang/snappy v0.0.4
 	github.com/peterbourgon/ff/v4 v4.0.0-alpha.4
@@ -66,7 +65,7 @@ require (
 	golang.org/x/time v0.9.0 // indirect
 	google.golang.org/api v0.218.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250115164207-1a7da9e5054f // indirect
-	google.golang.org/grpc v1.69.4 // indirect
+	google.golang.org/grpc v1.70.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/apimachinery v0.32.1 // indirect
 	k8s.io/client-go v0.32.1 // indirect
