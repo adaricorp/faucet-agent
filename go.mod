@@ -2,7 +2,7 @@ module faucet_agent
 
 go 1.23
 require (
-	github.com/golang/snappy v0.0.4
+	github.com/golang/snappy v1.0.0
 	github.com/peterbourgon/ff/v4 v4.0.0-alpha.4
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
