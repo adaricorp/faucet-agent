@@ -6,7 +6,7 @@ require (
 	github.com/golang/snappy v1.0.0
 	github.com/peterbourgon/ff/v4 v4.0.0-alpha.4
 	github.com/prometheus/client_model v0.6.1
-	github.com/prometheus/common v0.62.0
+	github.com/prometheus/common v0.63.0
 	github.com/prometheus/prometheus v0.302.1
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
 	google.golang.org/protobuf v1.36.5
