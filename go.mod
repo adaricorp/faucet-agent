@@ -53,15 +53,16 @@ require (
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.122.0 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.122.0 // indirect
-	github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.121.0 // indirect
+	github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.122.0 // indirect
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/prometheus/client_golang v1.21.1 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/prometheus/sigv4 v0.1.2 // indirect
+	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/collector/component v1.28.1 // indirect
 	go.opentelemetry.io/collector/confmap v1.28.0 // indirect
-	go.opentelemetry.io/collector/confmap/xconfmap v0.121.0 // indirect
+	go.opentelemetry.io/collector/confmap/xconfmap v0.122.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.28.1 // indirect
 	go.opentelemetry.io/collector/featuregate v1.28.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.28.1 // indirect
