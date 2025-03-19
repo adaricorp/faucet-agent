@@ -59,12 +59,12 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/prometheus/sigv4 v0.1.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
-	go.opentelemetry.io/collector/component v1.28.0 // indirect
+	go.opentelemetry.io/collector/component v1.28.1 // indirect
 	go.opentelemetry.io/collector/confmap v1.28.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.121.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.28.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.28.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.28.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.28.1 // indirect
 	go.opentelemetry.io/collector/pipeline v0.122.0 // indirect
 	go.opentelemetry.io/collector/processor v0.122.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.122.1 // indirect
