@@ -64,10 +64,10 @@ require (
 	go.opentelemetry.io/collector/component v1.30.0 // indirect
 	go.opentelemetry.io/collector/confmap v1.30.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.124.0 // indirect
-	go.opentelemetry.io/collector/consumer v1.30.0 // indirect
+	go.opentelemetry.io/collector/consumer v1.31.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.30.0 // indirect
 	go.opentelemetry.io/collector/internal/telemetry v0.124.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.30.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.31.0 // indirect
 	go.opentelemetry.io/collector/pipeline v0.124.0 // indirect
 	go.opentelemetry.io/collector/processor v1.30.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.124.0 // indirect
