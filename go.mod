@@ -31,6 +31,7 @@ require (
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
+	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.2 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
@@ -63,8 +64,8 @@ require (
 	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/collector/component v1.32.0 // indirect
-	go.opentelemetry.io/collector/confmap v1.31.0 // indirect
-	go.opentelemetry.io/collector/confmap/xconfmap v0.125.0 // indirect
+	go.opentelemetry.io/collector/confmap v1.32.0 // indirect
+	go.opentelemetry.io/collector/confmap/xconfmap v0.126.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.32.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.32.0 // indirect
 	go.opentelemetry.io/collector/internal/telemetry v0.126.0 // indirect
