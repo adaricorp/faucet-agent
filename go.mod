@@ -1,6 +1,7 @@
 module faucet_agent
 
-go 1.24
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -70,7 +71,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.31.0 // indirect
 	go.opentelemetry.io/collector/pipeline v0.125.0 // indirect
 	go.opentelemetry.io/collector/processor v1.31.0 // indirect
-	go.opentelemetry.io/collector/semconv v0.125.0 // indirect
+	go.opentelemetry.io/collector/semconv v0.126.0 // indirect
 	go.opentelemetry.io/contrib/bridges/otelzap v0.10.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.60.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.60.0 // indirect
