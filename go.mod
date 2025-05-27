@@ -76,8 +76,8 @@ require (
 	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/collector/component v1.33.0 // indirect
-	go.opentelemetry.io/collector/confmap v1.32.0 // indirect
-	go.opentelemetry.io/collector/confmap/xconfmap v0.126.0 // indirect
+	go.opentelemetry.io/collector/confmap v1.33.0 // indirect
+	go.opentelemetry.io/collector/confmap/xconfmap v0.127.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.33.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.33.0 // indirect
 	go.opentelemetry.io/collector/internal/telemetry v0.127.0 // indirect
