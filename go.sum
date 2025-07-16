@@ -243,8 +243,8 @@ github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v
 github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.129.0/go.mod h1:tIE4dzdxuM7HnFeYA6sj5zfLuUA/JxzQ+UDl1YrHvQw=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.129.0 h1:ydkfqpZ5BWZfEJEs7OUhTHW59og5aZspbUYxoGcAEok=
 github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.129.0/go.mod h1:oA+49dkzmhUx0YFC9JXGuPPSBL0TOTp6jkv7qSr2n0Q=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.129.0 h1:AOVxBvCZfTPj0GLGqBVHpAnlC9t9pl1JXUQXymHliiY=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.129.0/go.mod h1:0CAJ32V/bCUBhNTEvnN9wlOG5IsyZ+Bmhe9e3Eri7CU=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.130.0 h1:edJA3qW9ks+8Nu4jOOZmfN7gSWcqV/dcRaQMtKAlcYI=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.130.0/go.mod h1:RHN0+zoQFqqvBN8Q5/gTNSQSz1lJQTQRvPfgODTR/jw=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.129.0 h1:yDLSAoIi3jNt4R/5xN4IJ9YAg1rhOShgchlO/ESv8EY=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.129.0/go.mod h1:IXQHbTPxqNcuu44FvkyvpYJ6Qy4wh4YsCVkKsp0Flzo=
 github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
