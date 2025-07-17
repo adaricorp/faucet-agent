@@ -103,7 +103,7 @@ require (
 	golang.org/x/sys v0.34.0 // indirect
 	golang.org/x/text v0.27.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
-	google.golang.org/api v0.241.0 // indirect
+	google.golang.org/api v0.242.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250603155806-513f23925822 // indirect
 	google.golang.org/grpc v1.73.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
