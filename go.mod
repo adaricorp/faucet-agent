@@ -75,7 +75,7 @@ require (
 	github.com/prometheus/sigv4 v0.2.1 // indirect
 	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
-	go.opentelemetry.io/collector/component v1.37.0 // indirect
+	go.opentelemetry.io/collector/component v1.38.0 // indirect
 	go.opentelemetry.io/collector/confmap v1.37.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.131.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.38.0 // indirect
@@ -83,7 +83,7 @@ require (
 	go.opentelemetry.io/collector/internal/telemetry v0.132.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.38.0 // indirect
 	go.opentelemetry.io/collector/pipeline v1.38.0 // indirect
-	go.opentelemetry.io/collector/processor v1.37.0 // indirect
+	go.opentelemetry.io/collector/processor v1.38.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.128.0 // indirect
 	go.opentelemetry.io/contrib/bridges/otelzap v0.12.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.62.0 // indirect
