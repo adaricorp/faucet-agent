@@ -82,7 +82,7 @@ require (
 	go.opentelemetry.io/collector/featuregate v1.40.0 // indirect
 	go.opentelemetry.io/collector/internal/telemetry v0.134.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.40.0 // indirect
-	go.opentelemetry.io/collector/pipeline v1.40.0 // indirect
+	go.opentelemetry.io/collector/pipeline v1.41.0 // indirect
 	go.opentelemetry.io/collector/processor v1.40.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.128.0 // indirect
 	go.opentelemetry.io/contrib/bridges/otelzap v0.13.0 // indirect
