@@ -2,8 +2,6 @@ module faucet_agent
 
 go 1.24.7
 
-toolchain go1.24.7
-
 require (
 	github.com/golang/snappy v1.0.0
 	github.com/peterbourgon/ff/v4 v4.0.0-beta.1
@@ -33,7 +31,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.29.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.34.3 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.34.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.38.3 // indirect
 	github.com/aws/smithy-go v1.23.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
