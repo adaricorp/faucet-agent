@@ -242,10 +242,10 @@ github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f/go.mod h1:qRW
 github.com/oklog/ulid v1.3.1 h1:EGfNDEx6MqHz8B3uNV6QAib1UR2Lm97sHi3ocA6ESJ4=
 github.com/oklog/ulid/v2 v2.1.1 h1:suPZ4ARWLOJLegGFiZZ1dFAkqzhMjL3J1TzI+5wHz8s=
 github.com/oklog/ulid/v2 v2.1.1/go.mod h1:rcEKHmBBKfef9DhnvX7y1HZBYxjXb0cP5ExxNsTT1QQ=
-github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.137.0 h1:yXGavfQt72MqJiwqv2hfSFX00t9M7lywUyC1Y6vKk34=
-github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.137.0/go.mod h1:2o1cG7vPMb3wQk9rOaszPjK+1nd5uDOKP2O6jyuIR6s=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.137.0 h1:gzYqqK2ZOnbrEQfbS/2LnQa4t4oCofJdPKC9TkMJUQY=
-github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.137.0/go.mod h1:unML3A0mPOFWZcDJkzNEmv46eUwFxN9FqMcaNWxLh4g=
+github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.138.0 h1:df8vPJV0J+5dhnLfKkrsH3+Yy2sdIi9T9gvkcs4r8a4=
+github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics v0.138.0/go.mod h1:R/R4nkkrTKoaS2prNGEbGjdAPcGRNqWSlurTF4BdM2I=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.138.0 h1:34HE7sAjlXlzL1HAbDxOBKFdU3tTQcmgFVvjnts67DA=
+github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil v0.138.0/go.mod h1:XzBJKpG3Gi3GMyWF+7NgVl219PaGTl4+RaNo8f8KAZs=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.137.0 h1:kYhcFZ6wzwmvnQOXNnK0NS0F3CdFC6B9XK/gDs69WGg=
 github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.137.0/go.mod h1:M2qsf2dhEKsnXjmwFqp7vrTCRvwusDCMBvtGaXYWafU=
 github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
