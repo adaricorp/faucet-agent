@@ -2,14 +2,12 @@ module faucet_agent
 
 go 1.24.9
 
-toolchain go1.24.9
-
 require (
 	github.com/golang/snappy v1.0.0
 	github.com/peterbourgon/ff/v4 v4.0.0-beta.1
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.67.2
-	github.com/prometheus/prometheus v0.307.2
+	github.com/prometheus/prometheus v0.307.3
 	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a
 	google.golang.org/protobuf v1.36.10
 )
