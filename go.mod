@@ -9,7 +9,7 @@ require (
 	github.com/prometheus/common v0.67.4
 	github.com/prometheus/prometheus v0.308.0
 	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
