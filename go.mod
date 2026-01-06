@@ -78,7 +78,7 @@ require (
 	go.opentelemetry.io/collector/component v1.48.0 // indirect
 	go.opentelemetry.io/collector/confmap v1.49.0 // indirect
 	go.opentelemetry.io/collector/confmap/xconfmap v0.143.0 // indirect
-	go.opentelemetry.io/collector/consumer v1.48.0 // indirect
+	go.opentelemetry.io/collector/consumer v1.49.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.49.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.49.0 // indirect
 	go.opentelemetry.io/collector/pipeline v1.49.0 // indirect
