@@ -7,7 +7,7 @@ require (
 	github.com/peterbourgon/ff/v4 v4.0.0-beta.1
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.67.5
-	github.com/prometheus/prometheus v0.308.1
+	github.com/prometheus/prometheus v0.309.0
 	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a
 	google.golang.org/protobuf v1.36.11
 )
