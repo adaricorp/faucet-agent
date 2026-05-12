@@ -1,6 +1,6 @@
 module faucet_agent
 
-go 1.26.2
+go 1.26.3
 
 require (
 	github.com/golang/snappy v1.0.0
