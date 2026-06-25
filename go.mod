@@ -89,8 +89,8 @@ require (
 	go.opentelemetry.io/collector/featuregate v1.61.0 // indirect
 	go.opentelemetry.io/collector/internal/componentalias v0.155.0 // indirect
 	go.opentelemetry.io/collector/pdata v1.61.0 // indirect
-	go.opentelemetry.io/collector/pipeline v1.60.0 // indirect
-	go.opentelemetry.io/collector/processor v1.60.0 // indirect
+	go.opentelemetry.io/collector/pipeline v1.61.0 // indirect
+	go.opentelemetry.io/collector/processor v1.61.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.69.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.69.0 // indirect
 	go.opentelemetry.io/otel v1.44.0 // indirect
