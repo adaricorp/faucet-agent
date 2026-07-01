@@ -7,7 +7,7 @@ require (
 	github.com/peterbourgon/ff/v4 v4.0.0-beta.1
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.69.0
-	github.com/prometheus/prometheus v0.312.0
+	github.com/prometheus/prometheus v0.313.0
 	golang.org/x/exp v0.0.0-20260527015227-08cc5374adb3
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 )
@@ -74,7 +74,7 @@ require (
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/client_golang v1.23.2 // indirect
-	github.com/prometheus/client_golang/exp v0.0.0-20260518105423-c9d5bc4c50a9 // indirect
+	github.com/prometheus/client_golang/exp v0.0.0-20260602051030-3537b20ac86b // indirect
 	github.com/prometheus/otlptranslator v1.0.0 // indirect
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/prometheus/sigv4 v0.4.1 // indirect
