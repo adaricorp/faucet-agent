@@ -93,7 +93,7 @@ require (
 	go.opentelemetry.io/collector/pipeline v1.64.0 // indirect
 	go.opentelemetry.io/collector/processor v1.64.0 // indirect
 	go.opentelemetry.io/collector/processor/xprocessor v0.158.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.69.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.70.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.70.0 // indirect
 	go.opentelemetry.io/otel v1.45.0 // indirect
 	go.opentelemetry.io/otel/metric v1.45.0 // indirect
