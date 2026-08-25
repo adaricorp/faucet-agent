@@ -7,8 +7,8 @@ require (
 	github.com/peterbourgon/ff/v4 v4.0.0-beta.1
 	github.com/prometheus/client_model v0.6.2
 	github.com/prometheus/common v0.70.1
-	github.com/prometheus/prometheus v0.313.2
-	golang.org/x/exp v0.0.0-20260527015227-08cc5374adb3
+	github.com/prometheus/prometheus v0.314.0
+	golang.org/x/exp v0.0.0-20260709172345-9ea1abe57597
 	google.golang.org/protobuf v1.36.12
 )
 
@@ -73,7 +73,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor v0.159.0 // indirect
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/prometheus/client_golang v1.24.1 // indirect
-	github.com/prometheus/client_golang/exp v0.0.0-20260602051030-3537b20ac86b // indirect
+	github.com/prometheus/client_golang/exp v0.0.0-20260724065723-ecdb8254ba61 // indirect
 	github.com/prometheus/otlptranslator v1.0.0 // indirect
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/prometheus/sigv4 v0.4.1 // indirect
