@@ -52,8 +52,8 @@ github.com/aws/aws-sdk-go-v2/service/elasticache v1.60.0 h1:CrluVCmQeznDoFlxpqz1
 github.com/aws/aws-sdk-go-v2/service/elasticache v1.60.0/go.mod h1:SoFRXCmJnIMlKjLVEqpMWTaA37VqjJRrOy4VYZyB3sA=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.22 h1:qHfXn1Tm2Rh8kic/DvdKaiSVlHQRSr5C+rMuBR29D44=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.22/go.mod h1:D4ytxJbGXu82l+2XF0q60bibysf+KkIbWfAOldAQwf8=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.7 h1:6MSlRo7aiUVBftQ8XmW7XIh3EZqCbkN9zI0YlGW8nl0=
-github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.7/go.mod h1:OqapjZfp6VW4YJKKO4l68UdPvS4FIEYuEoq1JNkxCL0=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.8 h1:+PMpWlJYOn2tm7sm6OZ/ZLd4jStl17T7wjNapd1Rczs=
+github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.8/go.mod h1:cnG3xZLGQL4c/bt8pjdzlFtZsW7epBBuNS04a5xMjdo=
 github.com/aws/aws-sdk-go-v2/service/kafka v1.63.0 h1:WHsnt+uDX5Oml7DiEoZGH3zJZLWoO95C3vvfUYpY7vI=
 github.com/aws/aws-sdk-go-v2/service/kafka v1.63.0/go.mod h1:0MZ/BsXlcYxOgjiFappYecMG0QtIDxI1HHPq+KM1lh4=
 github.com/aws/aws-sdk-go-v2/service/lightsail v1.64.0 h1:b9XJhCPBgr39pobi+nYLprIfN/0Z75dRbuMGuCnvUs4=
