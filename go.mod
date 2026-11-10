@@ -81,13 +81,13 @@ require (
 	github.com/stretchr/testify v1.12.1 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
-	go.opentelemetry.io/collector/component v1.70.0 // indirect
+	go.opentelemetry.io/collector/component v1.71.0 // indirect
 	go.opentelemetry.io/collector/confmap v1.70.0 // indirect
 	go.opentelemetry.io/collector/consumer v1.70.0 // indirect
 	go.opentelemetry.io/collector/consumer/xconsumer v0.164.0 // indirect
-	go.opentelemetry.io/collector/featuregate v1.70.0 // indirect
+	go.opentelemetry.io/collector/featuregate v1.71.0 // indirect
 	go.opentelemetry.io/collector/internal/componentalias v0.164.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.70.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.71.0 // indirect
 	go.opentelemetry.io/collector/pdata/pprofile v0.164.0 // indirect
 	go.opentelemetry.io/collector/pdata/xpdata v0.164.0 // indirect
 	go.opentelemetry.io/collector/pipeline v1.70.0 // indirect
