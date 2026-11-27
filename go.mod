@@ -79,18 +79,18 @@ require (
 	github.com/puzpuzpuz/xsync/v4 v4.5.0 // indirect
 	github.com/stretchr/testify v1.12.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.2 // indirect
-	go.opentelemetry.io/collector/component v1.71.0 // indirect
+	go.opentelemetry.io/collector/component v1.72.0 // indirect
 	go.opentelemetry.io/collector/confmap v1.71.0 // indirect
-	go.opentelemetry.io/collector/consumer v1.71.0 // indirect
-	go.opentelemetry.io/collector/consumer/xconsumer v0.165.0 // indirect
-	go.opentelemetry.io/collector/featuregate v1.71.0 // indirect
-	go.opentelemetry.io/collector/internal/componentalias v0.165.0 // indirect
-	go.opentelemetry.io/collector/pdata v1.71.0 // indirect
-	go.opentelemetry.io/collector/pdata/pprofile v0.165.0 // indirect
+	go.opentelemetry.io/collector/consumer v1.72.0 // indirect
+	go.opentelemetry.io/collector/consumer/xconsumer v0.166.0 // indirect
+	go.opentelemetry.io/collector/featuregate v1.72.0 // indirect
+	go.opentelemetry.io/collector/internal/componentalias v0.166.0 // indirect
+	go.opentelemetry.io/collector/pdata v1.72.0 // indirect
+	go.opentelemetry.io/collector/pdata/pprofile v0.166.0 // indirect
 	go.opentelemetry.io/collector/pdata/xpdata v0.165.0 // indirect
-	go.opentelemetry.io/collector/pipeline v1.71.0 // indirect
-	go.opentelemetry.io/collector/processor v1.71.0 // indirect
-	go.opentelemetry.io/collector/processor/xprocessor v0.165.0 // indirect
+	go.opentelemetry.io/collector/pipeline v1.72.0 // indirect
+	go.opentelemetry.io/collector/processor v1.72.0 // indirect
+	go.opentelemetry.io/collector/processor/xprocessor v0.166.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.72.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.72.0 // indirect
 	go.opentelemetry.io/otel v1.47.0 // indirect
